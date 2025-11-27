@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VideoPlayerBT</string>
+    <string name="accessibility_service_description">用于监听音量键以控制视频播放手势</string>
+    <string name="accessibility_service_label">视频播放控制服务</string>
+</resources>
